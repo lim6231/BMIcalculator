@@ -33,6 +33,7 @@ class MainActivity : AppCompatActivity() {
 //            else{
 //                imgResult.setImageResource(R.drawable.empty)
 //            }
+                //
                 val status: String
                 when {
                     bmi < 18.5 -> {
